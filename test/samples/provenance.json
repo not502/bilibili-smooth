@@ -1,0 +1,18 @@
+{
+  "fetchedAt": "2026-11-22T08:08:24.413Z",
+  "bvid": "BV1GJ411x7h7",
+  "cid": 137649199,
+  "viewUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GJ411x7h7",
+  "playurlUrl": "https://api.bilibili.com/x/player/playurl?bvid=BV1GJ411x7h7&cid=137649199&qn=64&fnval=16&fourk=1",
+  "anonymous": true,
+  "fetchMode": {
+    "view": "plain",
+    "playurl": "plain"
+  },
+  "httpStatus": {
+    "view": 200,
+    "playurl": 200
+  },
+  "riskControlRetries": [],
+  "note": "匿名请求真实 B 站接口所得原始响应，未做任何字段修改"
+}
